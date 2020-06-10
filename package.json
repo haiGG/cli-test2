@@ -1,0 +1,22 @@
+{
+  "name": "cli2",
+  "version": "1.0.0",
+  "description": "cli2",
+  "main": "t2",
+  "scripts": {
+    "test": "t2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haiGG/cli-test2.git"
+  },
+  "keywords": [
+    "2222"
+  ],
+  "author": "wyh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haiGG/cli-test2/issues"
+  },
+  "homepage": "https://github.com/haiGG/cli-test2#readme"
+}
